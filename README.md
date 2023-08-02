@@ -1,7 +1,7 @@
 # MLOps Topics
 
 ## Model drift
-* [Reference](https://home.mlops.community/home/videos/making-software-better)
+* [YouTube Reference](https://home.mlops.community/home/videos/making-software-better)
 * Detect drift is happening
 * Alert when drift is important enough to do something about
 * 2 branches: data drift and concept drift
